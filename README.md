@@ -10,7 +10,7 @@ Il contenuto e' stato generato mediante AI, partendo dal testo dei programmi ele
 Pertanto, le informazioni potrebbero non essere complete o precise.
 E' possibile consultare i programmi ufficiali nel dettaglio [QUI](https://pagellapolitica.it/articoli/programmi-partiti-italiani-elezioni-europee-2024)
 
-## Programmi a Confronto:
+## Confronto temi affrontati:
 
 **Clicka sul nome di uno dei 12 partiti** per visualizzare la lista dettagliata dei punti suddivisi per tema.
 Scrolla a destra se non riesci a visualizzare l'intera tabella.
