@@ -9,7 +9,8 @@ E' possibile consultare i programmi ufficiali nel dettaglio [QUI](https://pagell
 
 ## Programmi a Confronto:
 
-**Clicka sul nome di un partito** per visualizzare la lista dettagliata dei punti suddivisi per tema.
+**Clicka sul nome di uno dei 12 partiti** per visualizzare la lista dettagliata dei punti suddivisi per tema.
+Scrolla a destra se non riesci a visualizzare l'intera tabella.
 
 
 | Tema                    | [Partito Democratico](programmi-elettorali/partito-democratico.md)                                                                                                                                                     | [Movimento 5 Stelle](programmi-elettorali/movimento-5-stelle.md)         | [Lega](programmi-elettorali/lega.md)                                         | [Fratelli d'Italia](programmi-elettorali/fratelli-d-italia.md)                                                              | [Volt](programmi-elettorali/volt.md)                                               | [Alternativa Popolare ](programmi-elettorali/alternativa-popolare.md)                                      | [Verdi](programmi-elettorali/verdi.md)                                             | [Pace Terra Dignità ](programmi-elettorali/pace-terra-dignita.md)                                       | [Azione Siamo Europei](programmi-elettorali/azione-siamo-europei.md)                                                               | [Stati Uniti d'Europa](programmi-elettorali/stati-uniti-di-europa.md)                                     | [Forza Italia](programmi-elettorali/forza-italia.md)                                                           | [Libertà](programmi-elettorali/liberta.md)                                                                   |
