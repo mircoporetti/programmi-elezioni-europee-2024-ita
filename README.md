@@ -1,9 +1,12 @@
 # Sintesi dei programmi elettorali dei partiti italiani per le Elezioni Europee 2024
 
 Sintesi e confronto dei punti principali descritti nei programmi elettorali dei vari partiti politici italiani,
-per le Elezioni Europee 2024. 
+per le Elezioni Europee 2024.
+Lo scopo di questa raccolta è fornire una panoramica dei vari programmi elettorali, rendendo più semplice il confronto tra loro,
+poiché analizzare i programmi integrali può risultare complicato.
 
-Il contenuto e' stato generato mediante tool di AI, partendo daii programmi ufficiali pubblicati da ciascun partito. 
+
+Il contenuto e' stato generato mediante AI, partendo dal testo dei programmi elettorali ufficiali pubblicati da ciascun partito. 
 Pertanto, le informazioni potrebbero non essere complete o precise.
 E' possibile consultare i programmi ufficiali nel dettaglio [QUI](https://pagellapolitica.it/articoli/programmi-partiti-italiani-elezioni-europee-2024)
 
